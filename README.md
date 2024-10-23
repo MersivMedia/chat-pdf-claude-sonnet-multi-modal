@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PDF Chat System
 
 This application allows users to chat with PDF documents, including text and images. It uses Claude 3.5 Sonnet for image analysis and text generation, and stores document content in a vector database for efficient retrieval.
@@ -102,3 +103,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+# chat-pdf-claude-multi-modal
+This application allows users to chat with PDF documents, including text and images. It uses Claude 3.5 Sonnet for image analysis and text generation, and stores document content in a vector database for efficient retrieval.
+>>>>>>> origin/main
