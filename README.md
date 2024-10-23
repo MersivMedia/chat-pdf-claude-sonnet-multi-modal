@@ -21,7 +21,7 @@ This application allows users to chat with PDF documents, including text and ima
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/pdf-chat-system.git
+   git clone https://github.com/MersivMedia/chat-pdf-claude-sonnet-multi-modal.git
    cd pdf-chat-system
    ```
 
