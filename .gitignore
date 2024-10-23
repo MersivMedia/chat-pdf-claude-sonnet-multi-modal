@@ -25,3 +25,7 @@ data/
 
 # Ignore all .pdf files
 *.pdf
+
+# Ignore prd and architecture files
+prd/
+architecture/
