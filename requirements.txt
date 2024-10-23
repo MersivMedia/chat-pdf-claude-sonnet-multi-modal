@@ -1,0 +1,8 @@
+PyMuPDF==1.23.8
+anthropic==0.8.1
+chromadb==0.4.22
+langchain==0.1.9
+sentence-transformers==2.3.1
+pillow==10.2.0
+python-dotenv==1.0.1
+streamlit==1.31.1
